@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
-	"telkom_test2/internal/app"
-	"telkom_test2/internal/pkg/config"
+	"login-throttling/internal/app"
+	"login-throttling/internal/pkg/config"
 
 	"github.com/caarlos0/env"
 	"github.com/labstack/echo/v4"

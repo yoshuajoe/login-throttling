@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
+	"login-throttling/internal/pkg/redis"
 	"strconv"
 	"strings"
-	"telkom_test2/internal/pkg/redis"
 	"time"
 
 	"github.com/labstack/echo/v4"

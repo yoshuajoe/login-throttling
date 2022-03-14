@@ -1,4 +1,4 @@
-module telkom_test2
+module login-throttling
 
 go 1.17
 
